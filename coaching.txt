@@ -1,0 +1,1 @@
+create table student(student_name varchar(15),student_rollno varchar(10) primary key,student_father varchar(15),student_address varchar(50),student_dob varchar(10),student_gender varchar(10),student_mobile varchar(15),student_class varchar(15),student_marks varchar(10),student_fee varchar(10),student_mobparent varchar(10),student_pic varchar(50));
